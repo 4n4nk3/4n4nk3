@@ -5,7 +5,7 @@ I am a 🔨 **Cybersecurity Engineer** currently working in 📍 **Milan (MI) - 
 Visit my website [**Password1234**](https://psw1234.com/) and its bleeding edge [`/news`](https://psw1234.com/news/) section to discover more and stay updated on last cyber news!
 
 
-## 💻 A few of my favourite technologies to tinker with in free time
+## 💻 A few of my favorite technologies to tinker with in my free time
 
 
 <div align="center">
