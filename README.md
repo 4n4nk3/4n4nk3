@@ -1,6 +1,6 @@
 # 👋 Welcome to my Github profile!
 
-I am currently working in 📍 **Milan (MI) - Italy** as a 🔨 **Cybersecurity Expert**.
+I am currently working in 📍 **Milan (MI) - Italy** as a **Cybersecurity Expert**.
 
 Visit my website [🌍 **Password1234**](https://psw1234.com/) and its bleeding edge [📰 `/news`](https://psw1234.com/news/) section to discover more and keep up with last cyber-news!
 
