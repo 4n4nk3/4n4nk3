@@ -6,7 +6,7 @@ Visit my website [**Password1234**](https://psw1234.com/) and its bleeding edge 
 
 ## :shield: My public Github Security Advisories
 
-[Pi-hole - Improper Session Handling - CVE-2023-23614](https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-33w4-xf7m-f82m)
+- [Pi-hole - Improper Session Handling - CVE-2023-23614](https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-33w4-xf7m-f82m)
 
 
 
