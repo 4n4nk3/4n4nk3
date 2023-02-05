@@ -1,16 +1,16 @@
-# Welcome to my Github profile!
+# 👋 Welcome to my Github profile!
 
 I am a 🔨 **Cybersecurity Engineer** currently working in 📍 **Milan (MI) - Italy**.
 
-Visit my website [**Password1234**](https://psw1234.com/) and its bleeding edge [`/news`](https://psw1234.com/news/) section to discover more and keep up with last cyber-news!
+Visit my website [🌍 **Password1234**](https://psw1234.com/) and its bleeding edge [📰 `/news`](https://psw1234.com/news/) section to discover more and keep up with last cyber-news!
 
-## :shield: My public Github Security Advisories
+## 🛡️ My public Github Security Advisories
 
 - [Pi-hole - Improper Session Handling - CVE-2023-23614](https://github.com/pi-hole/AdminLTE/security/advisories/GHSA-33w4-xf7m-f82m)
 
 
 
-## :computer: A few of my favorite technologies to tinker with
+## 💻 A few of my favorite technologies to tinker with
 
 
 <div align="center">
